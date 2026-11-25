@@ -1,4 +1,5 @@
 # **Das BOB-Projekt ; Ein selbstfahrendes Auto**
+## **B**ob **O**n **B**oard
 
 ## *Mitglieder des Projekts*
 *Mitglieder nicht genannt*

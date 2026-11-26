@@ -2,7 +2,7 @@
 ## **B**ob **O**n **B**oard
 
 ## *Mitglieder des Projekts*
-*Mitglieder nicht genannt*
+*Mitglieder nicht genannt, da es noch public ist*
 
 - Programmierer, GitHub
 - Programmierer
